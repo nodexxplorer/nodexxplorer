@@ -40,6 +40,7 @@ Here are some ideas to get you started:
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
+![Gold Modern Personal LinkedIn Banner (1)](https://github.com/user-attachments/assets/a9778949-1fbe-4eb9-aee7-777f3e698d66)
 
 
 **nodexxplorer/nodexxplorer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
