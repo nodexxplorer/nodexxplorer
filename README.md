@@ -88,8 +88,8 @@ I'm a curious technologist, full-stack developer, and digital visionary passiona
 ## 🔗 Projects You Should Know
 | Project | Description | link |
 |--------|-------------|-----|
-| 👕 **Clothing Sales Platform** |  A modern fabrics sales platform for with multi useablity| https://github.com/nodexxplorer/oldwyn |
-| 🏘️ **Real Estate Sales** | A platform that connect agent with property ownera and buyers | https://github.com/nodexxplorer/real-estate |
+| 👕 **Clothing Sales Platform** |  A modern fabrics sales platform for with multi useablity| https://nodexxplorer/github.io/oldwyn |
+| 🏘️ **Real Estate Sales** | A platform that connect agent with property ownera and buyers | https://nodexxplorer/github.io/real-estate |
 | 🧠 **Dream-to-Reality DAO** | Crowdsourced AI Startup Incubator turning vague dreams into actionable MVPs. |
 | ⚙️ **Nodexplorer** | Real-time analytics and smart trading automation onchain. Built with Next.js + Supabase. |
 | 🎤 **AI Rap Battle Arena** | A platform for AI-generated rap battles, powered by NFTs and community voting. |
