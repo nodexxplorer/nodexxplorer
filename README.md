@@ -86,8 +86,8 @@ I'm a curious technologist, full-stack developer, and digital visionary passiona
 ---
 
 ## 🔗 Projects You Should Know
-| Project | Description |
-|--------|-------------|
+| Project | Description | link |
+|--------|-------------|-----|
 | 👕 **Clothing Sales Platform** |  A modern fabrics sales platform for with multi useablity| https://github.com/nodexxplorer/oldwyn |
 | 🏘️ **Real Estate Sales** | A platform that connect agent with property ownera and buyers | https://github.com/nodexxplorer/real-estate |
 | 🧠 **Dream-to-Reality DAO** | Crowdsourced AI Startup Incubator turning vague dreams into actionable MVPs. |
