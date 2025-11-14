@@ -1,8 +1,6 @@
 ## WELCOME TO NODEXXPLORER
 
-![Gold Modern Personal LinkedIn Banner (1)](https://github.com/user-attachments/assets/a9778949-1fbe-4eb9-aee7-777f3e698d66)
-
-
+<img width="3780" height="1890" alt="Gold Modern Personal LinkedIn Banner_20251026_132855_0000" src="https://github.com/user-attachments/assets/5191f12c-1886-4920-b579-d81ef1104be1" />
 
 
 > 👋 Welcome to my digital playground — where AI meets Web3 and ideas become reality.
